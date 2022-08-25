@@ -1,0 +1,25 @@
+{
+  "name": "a01-myattj",
+  "version": "1.0.0",
+  "description": "Simple web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a01-myattj.git"
+  },
+  "keywords": [
+    "\"web\""
+  ],
+  "author": "\"server\",",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a01-myattj/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a01-myattj#readme",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}
